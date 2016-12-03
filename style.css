@@ -1,0 +1,58 @@
+﻿body {
+}
+
+
+a:link, a:visited {
+
+    width: 118px;
+
+    color:  black;
+
+   text-align: center;
+    padding: 4px;
+  
+
+    
+}
+
+a:hover, a:active {
+    background-color: #7A991A;
+}
+
+.design {
+   
+    background-color: gray;
+    width: 100%;
+    margin-top: -5px;
+    text-align:center;
+    height: 119px;
+}
+
+.inner {
+    margin-top: -4px;
+}
+
+#QnAns {
+    text-align:left;
+    text-transform:none;
+    text-decoration-color:black;
+}
+
+#smallbanner {
+width:80%;
+margin-left:20%;
+margin-right:28%;
+}
+#PersonalInfo{
+width:70%;
+float:left;
+background-color:antiquewhite;
+}
+#LoginInfo{
+width:30%;
+float:right;
+background-color:blanchedalmond;
+}
+#new {
+background-color:blue;
+}
